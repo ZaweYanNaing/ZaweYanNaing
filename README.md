@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working **as a student at NCC level 5 diploma**
+- 🔭 I’m currently working **as a freelancer**
 
 - 🌱 I’m currently learning **Laravel , Node.js**
 
