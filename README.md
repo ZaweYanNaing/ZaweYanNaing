@@ -7,17 +7,21 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **as a student at NCC level 5 diploma**
+- 🔭 I’m currently working **as a student at NCC level 5 diploma**
 
 - 🌱 I’m currently learning **Laravel , Node.js**
+
+- 👯 I’m an Undergraduate **at Strategy First College**
 
 - 📫 How to reach me **zaweyannaing121.phys@gmail.com**
 
 - 📄 Know about my experiences [https://www.canva.com/design/DAFosSRnP6U/QNho0a-BMyQSB3FxQTjtlg/view?utm_content=DAFosSRnP6U&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h41d521ed38](https://www.canva.com/design/DAFosSRnP6U/QNho0a-BMyQSB3FxQTjtlg/view?utm_content=DAFosSRnP6U&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h41d521ed38)
 
+- ⚡ Fun fact **You can call me Zawe**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/zaweyannaing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zaweyannaing" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/share/1fjau3kvcp/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/1fjau3kvcp/" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/XHedt6vD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/XHedt6vD" height="30" width="40" /></a>
 </p>
 
